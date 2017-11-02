@@ -2211,6 +2211,34 @@
             "nasal": false
         }
     },
+    "ɤ": {
+        "name": "high-mid back rounded vowel",
+        "features": {
+            "cons": false,
+            "son": true,
+            "syl": true,
+            "labial": true,
+            "round": false,
+            "coronal": false,
+            "ant": 0,
+            "dist": 0,
+            "dorsal": true,
+            "high": false,
+            "low": false,
+            "back": true,
+            "tense": true,
+            "pharyngeal": true,
+            "ATR": true,
+            "voice": true,
+            "SG": false,
+            "CG": false,
+            "cont": true,
+            "strident": false,
+            "lateral": false,
+            "del_rel": false,
+            "nasal": false
+        }
+    },
     "ɔ": {
         "name": "low-mid back rounded vowel",
         "features": {
