@@ -2490,5 +2490,33 @@
             "del_rel": false,
             "nasal": false
         }
+    },
+    "ɶ": {
+        "name": "low front rounded vowel",
+        "features": {
+            "cons": false,
+            "son": true,
+            "syl": true,
+            "labial": true,
+            "round": true,
+            "coronal": false,
+            "ant": 0,
+            "dist": 0,
+            "dorsal": true,
+            "high": false,
+            "low": true,
+            "back": false,
+            "tense": false,
+            "pharyngeal": true,
+            "ATR": false,
+            "voice": true,
+            "SG": false,
+            "CG": false,
+            "cont": true,
+            "strident": false,
+            "lateral": false,
+            "del_rel": false,
+            "nasal": false
+        }
     }
 }
