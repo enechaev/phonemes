@@ -475,6 +475,34 @@
             "nasal": false
         }
     },
+    "ʒʲ": {
+        "name": "palatalized voiced palato-alveolar sibilant",
+        "features": {
+            "cons": true,
+            "son": false,
+            "syl": false,
+            "labial": false,
+            "round": 0,
+            "coronal": true,
+            "ant": false,
+            "dist": true,
+            "dorsal": true,
+            "high": true,
+            "low": 0,
+            "back": 0,
+            "tense": 0,
+            "pharyngeal": false,
+            "ATR": 0,
+            "voice": true,
+            "SG": false,
+            "CG": false,
+            "cont": true,
+            "strident": true,
+            "lateral": false,
+            "del_rel": false,
+            "nasal": false
+        }
+    },
     "c": {
         "name": "voiceless palatal stop",
         "features": {
