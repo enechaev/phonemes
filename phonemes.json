@@ -643,6 +643,34 @@
             "nasal": false
         }
     },
+    "pʼ": {
+        "name": "ejective voiceless bilabial plosive",
+        "features": {
+            "cons": true,
+            "son": false,
+            "syl": false,
+            "labial": true,
+            "round": 0,
+            "coronal": true,
+            "ant": 0,
+            "dist": 0,
+            "dorsal": false,
+            "high": 0,
+            "low": 0,
+            "back": 0,
+            "tense": 0,
+            "pharyngeal": false,
+            "ATR": 0,
+            "voice": false,
+            "SG": false,
+            "CG": true,
+            "cont": false,
+            "strident": false,
+            "lateral": false,
+            "del_rel": false,
+            "nasal": false
+        }
+    },
     "b": {
         "name": "voiced bilabial plosive",
         "features": {
@@ -839,6 +867,34 @@
             "nasal": false
         }
     },
+    "kʼ": {
+        "name": "ejective voiceless velar stop",
+        "features": {
+            "cons": true,
+            "son": false,
+            "syl": false,
+            "labial": false,
+            "round": 0,
+            "coronal": false,
+            "ant": 0,
+            "dist": 0,
+            "dorsal": true,
+            "high": true,
+            "low": false,
+            "back": true,
+            "tense": false,
+            "pharyngeal": false,
+            "ATR": 0,
+            "voice": false,
+            "SG": false,
+            "CG": true,
+            "cont": false,
+            "strident": false,
+            "lateral": false,
+            "del_rel": false,
+            "nasal": false
+        }
+    },
     "kʷ": {
         "name": "voiceless labialised velar stop",
         "features": {
@@ -1028,6 +1084,34 @@
             "voice": false,
             "SG": false,
             "CG": false,
+            "cont": false,
+            "strident": false,
+            "lateral": false,
+            "del_rel": false,
+            "nasal": false
+        }
+    },
+    "qʼ": {
+        "name": "ejective voiceless uvular stop",
+        "features": {
+            "cons": true,
+            "son": false,
+            "syl": false,
+            "labial": false,
+            "round": 0,
+            "coronal": false,
+            "ant": 0,
+            "dist": 0,
+            "dorsal": true,
+            "high": false,
+            "low": false,
+            "back": true,
+            "tense": false,
+            "pharyngeal": false,
+            "ATR": 0,
+            "voice": false,
+            "SG": false,
+            "CG": true,
             "cont": false,
             "strident": false,
             "lateral": false,
